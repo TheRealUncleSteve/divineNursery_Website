@@ -285,11 +285,11 @@ footer p{
 /*-----------------------------------------------------------------------------------*/
 
 .hero-banner::after{
-    content: url(/includes/SVG/wave.svg);
+    content: url(/divineNursery_Website/includes/SVG/wave.svg);
 }
 
 #services::before{
-    content: url(/includes/SVG/minimal.svg);
+    content: url(/divineNursery_Website/includes/SVG/minimal.svg);
 }
 
 /*-----------------------------------------------------------------------------------*/
